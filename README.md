@@ -1,0 +1,1 @@
+If norm is out of bounds due to random sampling, the signature fails (to be inline with the paper's implementation). Please run it again and if this time the sampling of the random variable stays within limits, it will be run sucessfully.
